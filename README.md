@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Zainab Ahmed Muhammad</h1>
+<h1 align="left">Hey, I'm Zainab Ahmed Muhammad</h1>
 
 <p align="left">I'm a <b>Backend Developer</b> from <b>Cairo, Egypt</b>. I specialize in designing and developing scalable web applications using <b>Laravel</b> and modern backend technologies. I am passionate about writing clean, maintainable code and building secure, efficient systems.</p>
 
